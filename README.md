@@ -1,6 +1,6 @@
 # webRTC Confrence room
 React + Typescript & webRTC
-
+Video confrencing , chat and screensharing 
 
 In the project directory, you can run:
 
