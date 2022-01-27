@@ -1,4 +1,5 @@
 # webRTC Confrence room
+React + Typescript & webRTC
 
 
 In the project directory, you can run:
